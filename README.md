@@ -1,4 +1,4 @@
-###Grading###
+### Grading
 Area           | Grade (0-10)
 -------------- | ------------
 Implementation |
